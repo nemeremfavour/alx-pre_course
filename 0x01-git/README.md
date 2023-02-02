@@ -1,1 +1,1 @@
-This is a README file
+Starting to code today, so cool
